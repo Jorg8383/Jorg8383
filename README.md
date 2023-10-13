@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineer interested in IoT and embedded devices.</h3>
 
 <ul>
-  <li>🔭 I'm currently working on a distributed irrigation system based on a Raspberry PI4, including a GUI developed in C++ and Qt6 as the main control station.</li>
+  <li>🔭 I'm currently working on a distributed irrigation system based on a Raspberry PI4, including a GUI developed in C++ and Qt6.</li>
   <li>🌱 I’m currently learning Qt6 and QML.</li>
   <li>📫 How to reach me: www.linkedin.com/in/joerg-striebel</li>
 </ul>  
